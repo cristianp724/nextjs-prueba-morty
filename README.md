@@ -75,9 +75,9 @@ Este proyecto está bajo la Licencia MIT. Ver el archivo `LICENSE` para más det
 
 ## ✉️ Contacto
 Para cualquier consulta o sugerencia, por favor contacta a través de:
-- Email: [tu-email@ejemplo.com]
-- GitHub: [tu-usuario-github]
+- Email: cristian.colindres724@gmail.com
+- GitHub: cris724
 
 ---
 
-Desarrollado con ❤️ por [Tu Nombre]
+Desarrollado con ❤️ por Cris
